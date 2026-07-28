@@ -1,8 +1,6 @@
 # BCPT-Med: Credal Bounded-Consensus Partial Transport for Imbalanced Medical Image Clustering
 
-<p align="center">
-  <strong>Label-free clustering under unknown class proportions, unreliable pseudo-labels, and stochastic head selection.</strong>
-</p>
+
 
 BCPT-Med is an offline-first framework for clustering imbalanced medical image collections with frozen complementary foundation encoders. It combines a cross-foundation consensus graph, an interval-valued **credal cluster marginal**, reliability-aware **partial optimal transport with rejection**, and an anchor-guided label-free safeguard.
 
